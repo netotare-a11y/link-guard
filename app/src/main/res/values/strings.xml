@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">링크 지킴이</string>
+    <string name="service_desc">카카오톡 안 브라우저가 뜨면 기본 브라우저로 넘기고, 링크 때문에 쿠팡 앱이 뜨면 바로 닫습니다. 인터넷 권한이 없어 화면 내용을 밖으로 보내지 않습니다.</string>
+    <color name="icon_bg">#1E6FE0</color>
+</resources>
